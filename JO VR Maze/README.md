@@ -1,5 +1,6 @@
 # VR Hedge Maze
 An 8-bit like hedge maze with turns, dead ends, an obstacle, a chainsaw, and a fun prize made for the Oculus Quest 2. See if you can make it to the end! Link to video playthrough: https://1drv.ms/v/s!AqCKHmZudGwHiLlUnhRgUllz2BW3vA?e=dmjQJC
+![TeleportSample](https://github.com/jason-ortiz/Unity-Misc/blob/main/JO%20VR%20Maze/AssignmentMedia/Screenshots/TeleportSample.jpg)
 
 ## Background
 This project was developed for a VR assignment for NYU's professional XR dev certificate. Not all required files for opening this as a Unity project have been uploaded since third party assets were used.
