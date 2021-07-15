@@ -1,5 +1,5 @@
 # VR Hedge Maze
-An 8-bit like hedge maze with turns, dead ends, an obstacle, a chainsaw, and a fun prize made for the Oculus Quest 2. See if you can make it to the end!
+An 8-bit like hedge maze with turns, dead ends, an obstacle, a chainsaw, and a fun prize made for the Oculus Quest 2. See if you can make it to the end! Link to video playthrough: https://1drv.ms/v/s!AqCKHmZudGwHiLlUnhRgUllz2BW3vA?e=dmjQJC
 
 ## Background
 This project was developed for a VR assignment for NYU's professional XR dev certificate. Not all required files for opening this as a Unity project have been uploaded since third party assets were used.
@@ -47,11 +47,12 @@ Right Controller (Grab)
 - [x] The maze includes at least two dead ends.
 - [x] The environment objects are aligned to the grid.
 
-screenshot here
+See turns, dead ends, and grid, via this screenshot:
+![Maze Screenshot](https://github.com/jason-ortiz/Unity-Misc/blob/main/JO%20VR%20Maze/AssignmentMedia/Screenshots/Maze%20Grid%20View.png)
 
 - [x] The player must use a grabbable object to progress further.
 - [x] A win state is activated upon entering the final section.
 - [x] The maze must be playable with the VR headset.
 
-video here
+See video playthrough: https://1drv.ms/v/s!AqCKHmZudGwHiLlUnhRgUllz2BW3vA?e=dmjQJC
 
