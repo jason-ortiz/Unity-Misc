@@ -1,6 +1,8 @@
 # VR Spaceship
 Control a spaceship in VR! See video playthrough here: https://1drv.ms/v/s!AqCKHmZudGwHiLlxYxIxwP0gtgcc9A?e=QtE57l
 
+![SpaceshipScreenshot](https://github.com/jason-ortiz/Unity-Misc/blob/main/VR%20Complex%20Interactions/Screenshots/Screenshot.png)
+
 ## Background
 This project was developed for a VR assignment for NYU's professional XR dev certificate.
 
@@ -11,7 +13,7 @@ This project was developed for a VR assignment for NYU's professional XR dev cer
 ### Pre-req: ensure your Quest is configured for developer mode. Can follow steps 2 & 4 in SideQuest: https://sidequestvr.com/setup-howto
 ### Install
 1. Connect Oculus Quest 2 via USC-C cable to your computer. Ignore Oculus Link pop-ups
-1. Download `Build\Assignment\physical-controls.apk` from this repo
+1. Download [Build/Assignment/physical-controls.apk](https://github.com/jason-ortiz/Unity-Misc/blob/main/VR%20Complex%20Interactions/Build/Assignment/physical-controls.apk) from this repo
 1. From previously opened Android Platform Tools shell, type `adb install "your/download/path/to/physical-controls.apk"
 1. Put on your Oculus, go to "Unknown sources" and play! See controls below
 
